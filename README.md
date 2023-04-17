@@ -21,7 +21,7 @@ This is a MERN stack application that allows users to search for books using the
 
 ## Usage
 
-This application is deployed on Heroku and can be accessed [here](https://mern-book-search-challenge-21.herokuapp.com/).
+This application is deployed on Heroku and can be accessed [here](https://mern-book-search-ch-21.herokuapp.com/).
 
 To use the Book Search Engine:
 
